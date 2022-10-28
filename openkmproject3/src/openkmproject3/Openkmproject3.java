@@ -30,6 +30,8 @@ public class Openkmproject3 {
         // JAR FILE sdk4j-with-dependences-1.2.jar  is in the main project folder
         // Add jar file to project class path before use
         
+        //See basic java usage 
+	//https://docs.openkm.com/kcenter/view/okm-6.4/okmauth.html
         
     }    
 }
